@@ -31,7 +31,7 @@ A simple endless game created as a college project in 2nd semester. In this game
 
 ## 📸 Screenshots<br>
 
-<img src="assets/screenshot1.png" width="300"> <img src="assets/screenshot2.png" width="300"><br> <img src="assets/screenshot3.png" width="300"> <img src="assets/screenshot4.png" width="300"><br>
+<img src="screenshot/Screenshot1.png" width="300"> <img src="screenshot/Screenshot2.png" width="300"><br> <img src="screenshot/Screenshot3.png" width="300"> <img src="screenshot/Screenshot4.png" width="300"><br>
 
 \---<br>
 
