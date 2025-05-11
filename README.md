@@ -35,16 +35,11 @@ A simple endless game created as a college project in 2nd semester. In this game
 
 \---<br>
 
-## ▶️ How to Run<br>
+## 📦 Download & Play
 
-1. <b>Install SFML</b> on your system<br>
-2. <b>Clone the repository:</b><br>
-
-   <pre><code>git clone https://github.com/your-username/UFO.git</code></pre><br>
-3. <b>Navigate to the project folder:</b><br>
-
-   <pre><code>cd UFO</code></pre><br>
-4. <b>Compile the code</b> using a C++ compiler and link the SFML libraries<br>
+Download the complete GameHub release from Google Drive:<br>
+👉 [**Download GameHub (ZIP File)**](https://drive.google.com/file/d/1UtCy6aQuogMVn5YL7erSRFGfZ4ZrsQBW/view?usp=sharing)<br>
+Extract the ZIP and double-click the launcher to start playing!
 
 \---<br>
 
