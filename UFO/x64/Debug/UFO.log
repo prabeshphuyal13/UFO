@@ -1,0 +1,27 @@
+﻿  UFO.cpp
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,69): warning C4244:         with
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,69): warning C4244:         [
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,69): warning C4244:             T=unsigned int
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,69): warning C4244:         ]
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,45): warning C4244:         with
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,45): warning C4244:         [
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,45): warning C4244:             T=unsigned int
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(127,45): warning C4244:         ]
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,67): warning C4244:         with
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,67): warning C4244:         [
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,67): warning C4244:             T=unsigned int
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,67): warning C4244:         ]
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,45): warning C4244:         with
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,45): warning C4244:         [
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,45): warning C4244:             T=unsigned int
+D:\oopProject\oopProjectFinalDraft\UFO\UFO\UFO.cpp(202,45): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:             _Ty=unsigned int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         ]
+  UFO.vcxproj -> D:\oopProject\oopProjectFinalDraft\UFO\x64\Debug\UFO.exe
