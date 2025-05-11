@@ -1,6 +1,6 @@
 # UFO <br>
 
-A simple endless game created as a college project in 2nd semester. In this game, you control a UFO that must dodge incoming arrows to survive and score points. The longer you survive, the higher your score!<br>
+A simple endless game created as a part of college project (GameHub) in 2nd semester. In this game, you control a UFO that must dodge incoming arrows to survive and score points. The longer you survive, the higher your score!<br>
 
 \---<br>
 
@@ -37,19 +37,9 @@ A simple endless game created as a college project in 2nd semester. In this game
 
 ## 📦 Download & Play
 
-Download the complete GameHub release from Google Drive:<br>
-👉 [**Download GameHub (ZIP File)**](https://drive.google.com/file/d/1UtCy6aQuogMVn5YL7erSRFGfZ4ZrsQBW/view?usp=sharing)<br>
-Extract the ZIP and double-click the launcher to start playing!
-
-\---<br>
-
-## 📚 Project Info<br>
-
-* <b>Semester:</b> 2nd Semester<br>
-* <b>Subject:</b> Computer Graphics and Visualization<br>
-* <b>Submitted by:</b> \[Your Name]<br>
-* <b>College:</b> \[Your College Name]<br>
-* <b>Tags:</b> <code>#C++</code> <code>#SFML</code> <code>#GameDevelopment</code> <code>#CollegeProject</code> <code>#2DGame</code> <code>#EndlessRunner</code><br>
+Download the complete UFO release from Google Drive:<br>
+👉 [**Download UFO (ZIP File)**](https://drive.google.com/file/d/1UtCy6aQuogMVn5YL7erSRFGfZ4ZrsQBW/view?usp=sharing)<br>
+Extract the ZIP and double-click the UFO.exe to start playing!
 
 \---<br>
 
